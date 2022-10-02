@@ -1430,6 +1430,5 @@
 - [Ishita](https://github.com/ishita-kundi04)
 - [Yingchid](https://github.com/Yingchid)
 - [Saurabh Katkar](https://github.com/saurabhkatkar)
-
-
+- [Ayush Srivastava](https://github.com/ishriaayush)
 <!-- prettier-ignore-end -->
